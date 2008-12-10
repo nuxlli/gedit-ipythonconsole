@@ -1,0 +1,16 @@
+[Gedit Plugin]
+Loader=python
+Module=ipythonconsole
+IAge=2
+Name=iPython Console
+Name[es]=Consola iPython
+Name[pt]=Consola iPython
+Name[pt_BR]=Console iPython
+Description=Interactive ipython console standing in the bottom panel
+Description[es]=Consola interactiva ipython en el panel inferior
+Description[pt]=Consola ipython interactiva no painel inferior
+Description[pt_BR]=Console ipython interativo situado no painel inferior
+Icon=gnome-mime-text-x-python
+Authors=Éverton Ribeiro <nuxlli@gmail.com>
+Copyright=Copyright © 2008 Éverton Ribeiro
+Website=http://www.gedit.org
